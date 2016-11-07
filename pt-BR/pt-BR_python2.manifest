@@ -1,9 +1,9 @@
 {
-    "description": "Python 2",
+    "description": "Python: Módulo 2",
     "id": "python",
     "language": "pt-BR",
     "number": 10,
-    "title": "Python 2",
+    "title": "Python: Módulo 2",
     "projects": [
         {
             "number":   1,

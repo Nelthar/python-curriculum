@@ -1,6 +1,6 @@
 ---
 title: Arte em ASCII
-level: Python 1
+level: Python: Módulo 1
 language: pt-BR
 stylesheet: python
 embeds: "*.png"
